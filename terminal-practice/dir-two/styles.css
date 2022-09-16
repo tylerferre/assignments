@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+header {
+    display: inline-block;
+     font-style: bold;
+      color:blue
+}
+
+.water {
+    color:white; background-color: blue; display: padding 15px;
+}
