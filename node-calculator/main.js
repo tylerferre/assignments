@@ -34,5 +34,3 @@ var calculate = function (num1, num2, operation) {
  calculation.result()
 
 
-
-
