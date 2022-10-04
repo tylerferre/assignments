@@ -17,3 +17,12 @@ h1{
 /* .blue{
     background-color:blue;
 } */
+.input{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.button{
+    text-align: center;
+    padding-top: 10px;
+}
