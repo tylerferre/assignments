@@ -30,6 +30,8 @@ var split = hello.slice(2)
 console.log(split)
 })
 
+
+//constructor functions
 // function Car(make, model, year, honkSound){
 //     this.make = make
 //     this.model = model
@@ -44,3 +46,9 @@ console.log(split)
 // var jeep = new Car("Jeep", "Cherokee", 1995, "BEERRPP")
 // console.log(jeep)
 // jeep.honk()
+
+
+//template literals
+// const name = "joe"
+// const greeting = `hello ${name} how are you?`
+// console.log(greeting)
